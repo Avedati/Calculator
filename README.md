@@ -1,3 +1,3 @@
 # Calculator
 
-A simple interpreter for a math-based programming language written in Python 3.
+An interpreter for a simple math-based programming language written in Python 3.
